@@ -1,6 +1,4 @@
 # 🛒 Superstore Sales Dashboard (Tableau)
-
-![Dashboard Preview]("![dashboard-preview](https://github.com/user-attachments/assets/772ac999-9e8d-427f-a0e9-8c80f3f367c3)")
 This is an interactive Tableau dashboard built using the Sample Superstore dataset. It visualizes key business metrics including sales trends, profit breakdowns, top-performing products, and geographic sales distribution.
 
 ---
